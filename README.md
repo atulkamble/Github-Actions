@@ -1,4 +1,4 @@
-# GitHub Actions — Short Theory, Points & Basic Codes
+# GitHub Actions
 
 ## 1. What is GitHub Actions?
 
